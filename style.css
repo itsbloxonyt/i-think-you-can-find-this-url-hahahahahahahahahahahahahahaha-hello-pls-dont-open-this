@@ -2,12 +2,12 @@ body {
   font-faily: 'Roboto Slab', sans-serif;
   margin: 0;
   padding: 0;
-  background: #0000ff;
+  background: #d2dff7;
   color: #333;
 }
 
 header {
-  background: #0056ff;
+  background: #d2dff7;
   color: white
   text-align: center
   padding: 4rem 1rem;
